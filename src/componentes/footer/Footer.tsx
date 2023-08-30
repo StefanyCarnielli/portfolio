@@ -4,8 +4,7 @@ import './Footer.css'
     return(
       <footer>
         <div className="rodape">
-        <div className='logo-footer'>
-        <img src="src\assets\img\logo-footer.png"></img></div>
+        
 
             <div className="imagens">
             <div><img className="img-icones" src="src\assets\img\twitter.png" alt=""></img></div>
@@ -20,7 +19,7 @@ import './Footer.css'
         
       <nav>
         <ul>
-            <li><h1>Product</h1></li>
+            <li><h1>Produtos</h1></li>
             <li><a href="#">Mobile Apps</a></li>
             <li><a href="#">Database Designer</a></li>
             <li><a href="#">Business Process Editor</a></li>

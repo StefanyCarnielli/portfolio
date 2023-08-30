@@ -3,18 +3,18 @@ import Link from './../link/Link'
 function Header(){
     return(
         <header>
-            <div className='logo-header'><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Barbie_Logo.svg"/>
+            <div className='logo-header'><img src="src\assets\img\logo.png"/>
   </div>
             <nav>
                 <ul>
                     <li>
-                        <Link texto='Home'/>
-                    </li>
-                    <li>
-                        <Link texto='Notícia'/>
+                        <Link texto='Início'/>
                     </li>
                     <li>
                         <Link texto='Sobre'/>
+                    </li>
+                    <li>
+                        <Link texto='Imagens'/>
                     </li>
                     <li>
                         <Link texto='Contato'/>
