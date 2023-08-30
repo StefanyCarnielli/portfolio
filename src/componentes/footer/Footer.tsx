@@ -1,4 +1,9 @@
 import './Footer.css'
+import Twitter from './../../assets/img/twitter.png'
+import Facebook from './../../assets/img/facebook.png'
+import Instagram from './../../assets/img/instagram.png'
+import Telegram from './../../assets/img/telegram.png'
+import Youtube from './../../assets/img/youtube.png'
 
   function Footer(){
     return(
@@ -7,11 +12,11 @@ import './Footer.css'
         
 
             <div className="imagens">
-            <div><img className="img-icones" src="src\assets\img\twitter.png" alt=""></img></div>
-            <div><img className="img-icones" src="src\assets\img\facebook.png" alt=""></img></div>
-            <div><img className="img-icones" src="src\assets\img\instagram.png" alt=""></img></div>
-            <div><img className="img-icones" src="src\assets\img\telegram.png" alt=""></img></div>
-            <div><img className="img-icones" src="src\assets\img\youtube.png" alt=""></img></div>
+            <div><img className="img-icones" src={Twitter} alt=""></img></div>
+            <div><img className="img-icones" src= {Facebook} alt=""></img></div>
+            <div><img className="img-icones" src={Instagram} alt=""></img></div>
+            <div><img className="img-icones" src={Telegram} alt=""></img></div>
+            <div><img className="img-icones" src={Youtube} alt=""></img></div>
             </div>
                
             </div>

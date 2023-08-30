@@ -1,10 +1,11 @@
 import './Header.css'
+import Logo from './../../assets/img/logo.png'
 import Link from './../link/Link'
 function Header(){
     return(
         <header>
-            <div className='logo-header'><img src="src\assets\img\logo.png"/>
-  </div>
+            <div><img className="logo-header" src={Logo} alt=""></img></div>
+  
             <nav>
                 <ul>
                     <li>
