@@ -7,7 +7,7 @@ function Portfolio(){
                        
 <div className="text-portfolio">
             <h1>Quem sou eu?</h1>
-            <p>Olá! Sou Stefany Carnielli, uma jovem apaixonada por tecnologia com 17 anos de idade. Atualmente, estou cursando o sexto semestre do curso técnico em Informática para Internet no Instituto Federal do Mato Grosso do Sul. Estou empolgada em compartilhar minha jornada de aprendizado e conquistas neste emocionante mundo digital. </p>
+            <p>Sou Stefany Carnielli, tenho 17 anos de idade e atualmente estou no sexto semestre em Informática para Internet no Instituto Federal do Mato Grosso do Sul. </p>
         </div>
 
             </div>
