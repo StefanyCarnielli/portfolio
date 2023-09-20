@@ -25,45 +25,34 @@ import Youtube from './../../assets/img/youtube.png'
       <nav>
         <ul>
             <li><h1>Produtos</h1></li>
-            <li><a href="#">Mobile Apps</a></li>
-            <li><a href="#">Database Designer</a></li>
-            <li><a href="#">Business Process Editor</a></li>
-            <li><a href="#">Web Apps Designer</a></li>
-            <li><a href="#">Integrations</a></li>
-            <li><a href="#">Solutions</a></li>
-            <li><a href="#">Industries</a></li>
-            <li><a href="#">Sucess Stories</a></li>
-            <li><a href="#">Pricing</a></li>
-            <li><a href="#">Product Uptades</a></li>
-            <li><a href="#">Security</a></li>
-            <li><a href="#">Plataforms Comparison</a></li>
+            <li><a href="#">Curso de informática para internet</a></li>
+            <li><a href="#">Curso de Lógica de programação com Arduino</a></li>
+            <li><a href="#">Curso de Programação de Robótica Lego EV3</a></li>
+            <li><a href="#">Curso de Introdução á lógica de programação Arduino</a></li>
+            <li><a href="#">Curso de Desenvolvimento Front-End</a></li>
+            <li><a href="#">Curso de Banco de Dados</a></li>
+            <li><a href="#">Curso de Frameworks</a></li>
+        
         </ul>
         <ul>
-        <li><h1>Company</h1></li>
-            <li><a href="#">Careers</a></li>
-            <li><a href="#">Partner program</a></li>
-            <li><a href="#">Find a partner</a></li>
-            <li><a href="#">Contact Us</a></li>
-            <li><a href="#">For Investors</a></li>
-            <li><a href="#">Professional Services</a></li>
+        <li><h1>Slogans</h1></li>
+            <li><a href="#">Inovação Digital</a></li>
+            <li><a href="#">Tecnologia Avançada</a></li>
+            <li><a href="#">Soluções Inteligentes</a></li>
+            <li><a href="#">Excelência em TI</a></li>
+            <li><a href="#">Transformação Digital</a></li>
+            <li><a href="#">Sistemas Eficientes</a></li>
         </ul>
 
         <ul>
-        <li><h1>Learn & get help</h1></li>
-            <li><a href="#">AppMaster 101</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">ROI Calculator</a></li>
-            <li><a href="#">Help Center</a></li>
-            <li><a href="#">Roadmap</a></li>
+        <li><h1>Contato</h1></li>
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Telegram</a></li>
+            <li><a href="#">Youtube</a></li>
             </ul>
-            <ul>
-        <li><h1>Community</h1></li>
-            <li><a href="#">Discord Community</a></li>
-            <li><a href="#">Documentation</a></li>
-            <li><a href="#">Comparioson</a></li>
-            <li><a href="#">AppMaster vs Adalo</a></li>
-            <li><a href="#">AppMAster vs Webflow</a></li>
-            </ul>
+      
 
       </nav>
       </footer>

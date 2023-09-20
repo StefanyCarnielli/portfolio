@@ -1,35 +1,56 @@
 .portfolio-content {
   display: flex;
-  justify-content: center;
   align-items: center;
-  min-height: 10vh;
-  background-color: #ffff;
+  justify-content: space-between;
+  padding: 50px;
+  background-color: #e7f1f5; 
 }
+
 
 .portfolio-content img {
-  max-width: 400px;
-  border-radius: 10%;
-  margin-top: 100px;
-  margin-right: 20px;
-  margin-left: 50px;
-  box-shadow: 0px 0px 13px 4px rgba(0,0,0,0.1);
+  max-width: 250px;
+  height: auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); 
 }
 
+
 .text-portfolio {
-  text-align: left;
+  flex-grow: 1;
+  margin-left: 30px;
+  color: #333; 
+  font-family: "Arial", sans-serif; 
 }
 
 .text-portfolio h1 {
-  font-size: 35px;
-  margin-bottom: 10px;
-  color: #333;
-  font-family: monospace;
+  font-size: 36px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #6197bf; 
 }
 
 .text-portfolio p {
-  font-size: 17px;
-  color: #666;
+  font-size: 18px;
   line-height: 1.6;
-  font-family: monospace;
+  margin-bottom: 15px;
+  color: #666; 
+}
+
+
+.contact-button {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #6197bf; 
+  color: #fff; 
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-button:hover {
+  background-color:#333; 
 }
 
