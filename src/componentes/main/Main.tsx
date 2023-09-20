@@ -1,16 +1,16 @@
-import { useState } from 'react'
-import Projeto from './../projeto/Projeto'
-import './Main.css'
 import Informatica from './../../assets/img/informatica.png'
 import Logica from './../../assets/img/logica.png'
 import Robotica from './../../assets/img/robotica.png'
 import Arduino from './../../assets/img/arduino.png'
+import { useState } from 'react'
+import Projeto from './../projeto/Projeto'
+import './Main.css'
 
-<div className="imagens">
-<div><img className="img-icones" src={Informatica} alt=""></img></div>
-<div><img className="img-icones" src= {Logica} alt=""></img></div>
-<div><img className="img-icones" src={Robotica} alt=""></img></div>
-<div><img className="img-icones" src={Arduino} alt=""></img></div>
+<div className="foto_projeto">
+<div><img src={Informatica} alt=""></img></div>
+<div><img src= {Logica} alt=""></img></div>
+<div><img src={Robotica} alt=""></img></div>
+<div><img src={Arduino} alt=""></img></div>
 </div>
 
 type ProjetoType = {
