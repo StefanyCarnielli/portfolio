@@ -1,5 +1,5 @@
 header{
-    background-color: #eae4f9;
+    background-color:#8ab3cf;
     display: flex;
     justify-content: space-between;
     padding: 0px 10vw;
@@ -12,8 +12,8 @@ header ul{
     
 }
 .logo-header {
-    height:90px;
-    width: 110px;
+    height:100px;
+    width: 00px;
   }
 header ul li a{
     padding: 15px;
